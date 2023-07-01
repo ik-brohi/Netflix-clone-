@@ -1,0 +1,8 @@
+.button_color{
+    background-color: #1ebc99;
+}
+.banner_image{
+    background: linear-gradient(to left, 
+    rgba(0,0,0,1),
+    rgba(0,0,0,));
+}
